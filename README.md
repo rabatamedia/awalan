@@ -4,7 +4,8 @@
 ## :link: <b>You can find me at:</b>
 - ⚡ Blog : http://rabatamedia.my.id
 - ⚡ Instagram : https://instagram.com/rabatamedia
-- ⚡ YouTube : https://youtube.com/rabatamedia
+- ⚡ YouTube : <a href="https://youtube.com/rabatamedia?sub_confirmation=1">https://youtube.com/rabatamedia</a>
+
 
 ## :gift_heart: <b>Want to give me a Gift ?</b><br>
 - :link: Donasi melalui Shopeepay : 082331009919
