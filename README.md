@@ -1,11 +1,11 @@
 ### Hi there 👋, Welcome to my profile!
-![image](https://avatars.githubusercontent.com/u/54209817?v=4)
-
 Skills: 
-- Office
+- Match
+- Microsoft Office (Excell, Point, Word)
+- Design (PhooShop, Corel Draw)
 - Website (HTML, CSS, JS, PHP, CodeIgniter 3)
 
-- ⚡ Github Page : https://rabatamedia.github.io
+⚡ Github Page : https://rabatamedia.github.io
 
 ## :link: <b>You can find me at:</b>
 - ⚡ Blog : http://rabatamedia.my.id
