@@ -4,8 +4,11 @@ Skills:
 - Microsoft Office (Excell, Point, Word)
 - Design (PhooShop, Corel Draw)
 - Website (HTML, CSS, JS, PHP, CodeIgniter 3)
+- Networking
+- Mikrotik
 
 ⚡ Github Page : https://rabatamedia.github.io
+⚡ Project : http://jasnet.my.id
 
 ## :link: <b>You can find me at:</b>
 - ⚡ Blog : http://rabatamedia.my.id
@@ -21,7 +24,7 @@ Skills:
 ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabatamedia) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CdrScNET89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rabatamedia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rabatamedia) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aloisius.rabata.taburarusta.martagalasa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rabatamedia/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rabatamedia)](https://github.com/ryo-ma/github-profile-trophy)  
 
