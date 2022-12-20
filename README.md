@@ -1,4 +1,10 @@
+### Hi there 👋, Welcome to my profile!
 ![image](https://avatars.githubusercontent.com/u/54209817?v=4)
+
+Skills: 
+- Office
+- Website (HTML, CSS, JS, PHP, CodeIgniter 3)
+
 - ⚡ Github Page : https://rabatamedia.github.io
 
 ## :link: <b>You can find me at:</b>
