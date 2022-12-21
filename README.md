@@ -15,6 +15,10 @@ Skills:
 - ⚡ Instagram : https://instagram.com/rabatamedia
 - ⚡ YouTube : <a href="https://youtube.com/rabatamedia?sub_confirmation=1">https://youtube.com/rabatamedia</a>
 
+## :link: <b>Projek</b>
+- ⚡ website RudzRyu : http://rudzryu.my.id
+- ⚡ TV KSP CU Lantang Tipo KC Bonti - Online : https://rabatamedia.github.io/tvlt-online
+- Server Mikhmon Mitra Jasnet Mua : http://jasnet.my.id/mua
 
 ## :gift_heart: <b>Want to give me a Gift ?</b><br>
 - :link: Donasi melalui Shopeepay : 082331009919
@@ -34,8 +38,6 @@ Skills:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rabatamedia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rabatamedia)  
 
 
 © Copyright <a href="https://rabatamedia.github.io/">RabataMedia.github.io</a> is proudly powered by <a href="https://pages.github.com/">GitHub Pages</a> <br>
