@@ -1,14 +1,18 @@
 ### Hi there 👋, Welcome to my profile!
 Skills: 
-- Match
+- Ilmu Matematika SD, SMP dan SMA
 - Microsoft Office (Excell, Point, Word)
-- Design (PhooShop, Corel Draw)
+- Design (PhotoShop, Corel Draw)
 - Website (HTML, CSS, JS, PHP, CodeIgniter 3)
 - Networking
 - Mikrotik
-
+- VPS
+  
 ⚡ Github Page : https://rabatamedia.github.io
 ⚡ Project : http://jasnet.my.id
+⚡ Project : http://jasnet.cloud
+⚡ Project : http://rabatamedia.biz.id
+
 
 ## :link: <b>You can find me at:</b>
 - ⚡ Blog : http://rabatamedia.my.id
@@ -18,7 +22,7 @@ Skills:
 ## :link: <b>Projek</b>
 - ⚡ website RudzRyu : http://rudzryu.my.id
 - ⚡ TV KSP CU Lantang Tipo KC Bonti - Online : https://rabatamedia.github.io/tvlt-online
-- Server Mikhmon Mitra Jasnet Mua : http://jasnet.my.id/mua
+- Server Mikhmon Mitra Jasnet Mua : http://mua.jasnet.cloud
 
 ## :gift_heart: <b>Want to give me a Gift ?</b><br>
 - :link: Donasi melalui Shopeepay : 082331009919
